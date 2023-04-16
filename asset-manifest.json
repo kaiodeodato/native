@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/native/static/js/main.8cb1e638.js",
+    "static/js/175.c03e86e1.js": "/native/static/js/175.c03e86e1.js",
+    "static/media/MaterialCommunityIcons.ttf": "/native/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
+    "static/media/AntDesign.ttf": "/native/static/media/AntDesign.163adab9dbd7cb1ed12a.ttf",
+    "favicon.ico": "/native/favicon.ico",
+    "index.html": "/native/index.html",
+    "favicon-32.png": "/native/favicon-32.png",
+    "favicon-16.png": "/native/favicon-16.png",
+    "serve.json": "/native/serve.json",
+    "manifest.json": "/native/manifest.json",
+    "main.8cb1e638.js.map": "/native/static/js/main.8cb1e638.js.map",
+    "175.c03e86e1.js.map": "/native/static/js/175.c03e86e1.js.map"
+  },
+  "entrypoints": [
+    "static/js/175.c03e86e1.js",
+    "static/js/main.8cb1e638.js"
+  ]
+}
